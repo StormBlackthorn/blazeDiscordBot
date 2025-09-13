@@ -1,0 +1,9 @@
+{
+		"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
+	},
+	"emoji": {
+		"reply" : "<:Reply:1033204269622513806>",
+		"rc" : "<:reply_continue:1033204381874651219>"
+	}
+}
